@@ -1,0 +1,2 @@
+This is practice file1 of git. 
+Hi Naman! how are you.
